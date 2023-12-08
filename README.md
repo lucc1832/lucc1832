@@ -3,6 +3,7 @@
 <!--
 **lucc1832/lucc1832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+-->
 ## ⚡ Platforms
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
