@@ -1,4 +1,4 @@
-https://badges.pufler.dev/updated/{lucc1832}/{repo}
+
 ### Hi I'm lucc 👋
 
 <!--
