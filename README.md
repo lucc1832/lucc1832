@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev)
 ### Hi I'm lucc 👋
 
 <!--
