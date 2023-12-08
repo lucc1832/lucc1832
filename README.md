@@ -2,4 +2,4 @@
 
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lucc1832&show_icons=true&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucc1832&theme=cobalt2&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucc1832)](https://github.com/anuraghazra/github-readme-stats)
