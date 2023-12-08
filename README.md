@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 ## 🌎 Find me
 - wechat Official Account: search **语如鲸落**✍🏾
-- blog: click [FranzKafkaBlog](https://coderfan.net/):memo:    
-- email:<a href="mailto:loveme@duck.com">loveme@duck.com</a>:e-mail:
+- blog: click [luccBlog](https://blog.lucc.work/):memo:    
+- email:<a href="mailto:myliu@lucc.work"></a>:e-mail:
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Android VTS测试实践](https://coderfan.net/android-vts%e6%b5%8b%e8%af%95%e5%ae%9e%e8%b7%b5.html?utm_source=rss&utm_medium=rss&utm_campaign=android-vts%25e6%25b5%258b%25e8%25af%2595%25e5%25ae%259e%25e8%25b7%25b5)
