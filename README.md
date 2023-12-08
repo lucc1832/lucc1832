@@ -1,4 +1,4 @@
-
+https://badges.pufler.dev/updated/{lucc1832}/{repo}
 ### Hi I'm lucc 👋
 
 <!--
@@ -6,9 +6,6 @@
 
 Here are some ideas to get you started:
 
-
--->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
