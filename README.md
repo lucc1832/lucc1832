@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucc1832&theme=cobalt2&show_icons=true&card_width=495px)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lucc1832&show_icons=true&theme=tokyonight)  
-[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=lucc1832)](https://github.com/mango-lzp/github-readme-stats)
+[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=lucc1832)](https://github.com/mango-lzp/github-readme-stats&card_width=495px)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lucc1832&show_icons=true&theme=tokyonight)
 
 
