@@ -1,4 +1,4 @@
-[![Updated Badge](https://badges.pufler.dev/updated/pujux/badge-it)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/lucc1832/badge-it)](https://badges.pufler.dev)
 ### Hi I'm lucc 👋
 
 <!--
