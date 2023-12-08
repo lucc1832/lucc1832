@@ -1,10 +1,13 @@
-### Hi I'm lucc 👋
+### Hi I'm FranzKafkaYu 👋
 
 <!--
-**lucc1832/lucc1832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FranzKafkaYu/FranzKafkaYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+
+-->
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -24,16 +27,14 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
-
-[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=lucc1832)](https://github.com/mango-lzp/github-readme-stats)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lucc1832&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucc1832)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FranzKafkaYu&theme=cobalt2&show_icons=true&card_width=495px)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FranzKafkaYu&show_icons=true&theme=tokyonight)  
 
 
 ## 🌎 Find me
 - wechat Official Account: search **语如鲸落**✍🏾
-- blog: click [luccBlog](https://blog.lucc.work/):memo:    
-- email:<a href="mailto:myliu@lucc.work">myliu@lucc.work</a>:e-mail:
+- blog: click [FranzKafkaBlog](https://coderfan.net/):memo:    
+- email:<a href="mailto:loveme@duck.com">loveme@duck.com</a>:e-mail:
 ## 🚀 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Android VTS测试实践](https://coderfan.net/android-vts%e6%b5%8b%e8%af%95%e5%ae%9e%e8%b7%b5.html?utm_source=rss&utm_medium=rss&utm_campaign=android-vts%25e6%25b5%258b%25e8%25af%2595%25e5%25ae%259e%25e8%25b7%25b5)
