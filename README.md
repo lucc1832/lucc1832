@@ -1,14 +1,8 @@
-[![Mango's github stats](https://github-readme-stats.vercel.app/api?username=lucc1832)](https://github.com/mango-lzp/github-readme-stats)
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lucc1832&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucc1832)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Hi I'm FranzKafkaYu 👋
+### Hi I'm lucc 👋
 
 <!--
-**FranzKafkaYu/FranzKafkaYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lucc1832/lucc1832** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
